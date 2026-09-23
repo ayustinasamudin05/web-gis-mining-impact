@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome - GIS Pertambangan</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<section id="landingPage" class="page active">
+  <div class="center-box">
+
+    <div class="logos">
+      <img src="assets/logo_uho.png" alt="Logo UHO">
+      <img src="assets/logo_konsel.png" alt="Logo Konawe Selatan">
+    </div>
+
+    <h1>Selamat Datang</h1>
+
+    <p>
+      Sistem Informasi Geografis Area Rawan Dampak Pertambangan<br>
+      <i>Kabupaten Konawe Selatan</i>
+    </p>
+
+    <a href="dashboard.php">
+      <button>Mulai</button>
+    </a>
+
+  </div>
+</section>
+
+</body>
+</html>
