@@ -2,6 +2,8 @@
 
 Aplikasi Sistem Informasi Geografis (WebGIS) ini dikembangkan untuk memetakan dan menganalisis area rawan dampak pertambangan menggunakan algoritma Random Forest, Google Earth Engine, dan Leaflet.js. 
 
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/e89f8383-105f-4f18-9a76-751d016f98ae" />
+
 > **🎥 Video Demonstrasi:** [Masukkan Tautan YouTube/Google Drive Video Anda Di Sini]  
 
 ---
