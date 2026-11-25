@@ -1,4 +1,4 @@
-<img width="1483" height="811" alt="image" src="https://github.com/user-attachments/assets/7b63a32c-02c4-4dce-a96b-a17e1534491e" /># 🗺️ Mining Impact Vulnerability Mapping — WebGIS
+# 🗺️ Mining Impact Vulnerability Mapping — WebGIS
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
