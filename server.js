@@ -162,7 +162,25 @@ function getParameterClassLabel(value) {
 
   if (nilai === 1) return "Aman";
   if (nilai === 2) return "Sedang";
-  if (nilai === 3) return "Tinggi";
+  if (nilai === 3) return "Rawan";
+
+  return "Tidak ada data";
+}
+
+function getRfClassLabel(value) {
+  if (value === null || value === undefined || value === "") {
+    return "Tidak ada data";
+  }
+
+  const nilai = Number(value);
+
+  if (!Number.isFinite(nilai)) {
+    return "Tidak ada data";
+  }
+
+  if (nilai === 0) return "Aman";
+  if (nilai === 1) return "Sedang";
+  if (nilai === 2) return "Rawan";
 
   return "Tidak ada data";
 }
